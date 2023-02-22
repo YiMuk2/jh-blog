@@ -1,6 +1,7 @@
 # :fire: 개요
 주환군의 블로그 프로젝트
 # :computer: 개발 정보
+- 맡은 분야: 퍼블리싱
 - Editor: Visual Studio Code
 - 사용언어: HTML5, CSS3, JavaScript, SCSS
 # :page_facing_up: 규칙
