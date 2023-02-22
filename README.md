@@ -1,9 +1,9 @@
-# 개요
+# :fire: 개요
 주환군의 블로그 프로젝트
-# 개발 정보
+# :computer: 개발 정보
 - Editor: Visual Studio Code
 - 사용언어: HTML5, CSS3, JavaScript, SCSS
-# 규칙
+# :page_facing_up: 규칙
 ## CSS
 - html의 기본 font-size는 10px이며, 자식 요소들의 font-size 단위는 rem으로 통일합니다.
 > font-size 16px -> 1.6rem, 14px -> 1.4rem
